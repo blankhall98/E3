@@ -1,0 +1,8 @@
+goal,goal_name,indicator,green-to-yellow,yellow-to-red,sign
+1,No poverty,Fraction of people living below 1.90$ per day (%),2,13,less_than
+2,Zero hunger,Fraction of population undernourished (%),7,15,less_than
+3,Good health,Life expectancy at birth (years),75,70,more_than
+4,Quality education,School life expectancy (years),12,10,more_than
+5,Gender equality,Gender parity in schooling (1),0.95,0.8,more_than
+6,Safe water,Fraction of population with acces to safe water (%),98,80,more_than
+7,Enough energy,Fraction of population with acces to electricity (%),98,80,more_than
